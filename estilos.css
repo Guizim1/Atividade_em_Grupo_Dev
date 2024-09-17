@@ -67,6 +67,13 @@ h2 {
   top: 150px;
 }
 
+h3 {
+  font-size: 20px;
+  position: relative;
+  left: 30%;
+  top: 150px;
+}
+
 p {
   font-size: 18px;
   position: relative;
@@ -108,8 +115,62 @@ p {
   top: 70px;
 }
 
-ul {
+.img4 {
   position: relative;
-  color: white;
+  left: 30%;
+  width: 350px;
+  height: 200px;
+  top: 150px;
+}
+
+.h1_1 {
+  font-size: 30px;
+  position: relative;
+  left: 28%;
+  top: 80px;
+}
+
+.img5 {
+  position: relative;
+  left: 30%;
+  width: 200px;
+  height: 200px;
+  top: 150px;
+}
+
+.h2_1 {
+  font-size: 30px;
+  position: relative;
+  left: 30%;
+  top: 150px;
+}
+
+.p2_1 {
   font-size: 18px;
+  position: relative;
+  left: 30%;
+  top: 150px;
+  width: 800px;
+}
+
+.p1_1 {
+  font-size: 20px;
+  position: relative;
+  left: 30%;
+  top: 150px;
+}
+
+.p1_2 {
+  font-size: 20px;
+  position: relative;
+  left: 30%;
+  top: 120px;
+}
+
+.ul_1 {
+  font-size: 20px;
+  position: relative;
+  left: 30%;
+  top: 150px;
+  width: 800px;
 }
